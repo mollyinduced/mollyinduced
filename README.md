@@ -4,29 +4,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=26&duration=1000&pause=1500&color=FF5555&center=true&vCenter=true&width=850&lines=
-      hobbyist;
-      object+oriented;
-      junior+developer;
-      5+years+of+experience"
-      alt="Typing SVG"
-    />
-      <img
-      src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=26&duration=1000&pause=1500&color=FF5555&center=true&vCenter=true&width=850&lines=
-      mollyinduced.com;
-      mdma.rip+|+t6 servers;
-      molly.rip;
-      oemt.club+|+hvh community;
-    "/>
-      <img
-      src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=26&duration=1000&pause=1500&color=FF5555&center=true&vCenter=true&width=850&lines=
-      Bungeecord 1.7-1.21.x;
-      Dying Light Save Editor;
-      TheAltening Loader - 1.7 x 26.1 (Lunar/Vanilla/Fabric);
-      BotLobbyTool (Archived);
-      Other Projects like that..;
-      "/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=26&duration=1000&pause=1500&color=FF5555&center=true&vCenter=true&width=850&lines=hobbyist;object+oriented;junior+developer;5+years+of+experience" alt="Typing SVG" />
+    <br>
+    <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=26&duration=1000&pause=1500&color=FF5555&center=true&vCenter=true&width=850&lines=mollyinduced.com;mdma.rip+%7C+t6+servers;molly.rip;oemt.club+%7C+hvh+community" alt="Typing SVG" />
+    <br>
+    <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=26&duration=1000&pause=1500&color=FF5555&center=true&vCenter=true&width=850&lines=Bungeecord+1.7-1.21.x;Dying+Light+Save+Editor;TheAltening+Loader+-+1.7+x+26.1+%28Lunar%2FVanilla%2FFabric%29;BotLobbyTool+%28Archived%29;Other+Projects+like+that.." alt="Typing SVG" />
   </a>
 </h1>
 
